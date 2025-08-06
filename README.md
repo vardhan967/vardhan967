@@ -57,7 +57,7 @@ Django-powered inventory and alert system for efficient home item tracking.
 Scalable seat booking app using Node.js & MongoDB, later ported to Django.  
 ✔️ Features include secure login, role-based access, and RESTful APIs.
 
-### 🔹 Object Detection System – Internship @ SkillDzire *(Sept 2024 – Dec 2024)*  
+### 🔹 Object Detection System – *(Sept 2024 – Dec 2024)*  
 Led development of real-time object detection using OpenCV and Python.  
 ✔️ Built robust detection algorithms and managed a productive dev team.
 
@@ -76,7 +76,7 @@ Led development of real-time object detection using OpenCV and Python.
 - 🌐 [Portfolio Website](https://prakashvardhan.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prakashvardhan/)
 - 📧 Email: vsvardhan967@gmail.com
-- 🧑‍💻 [GitHub](https://github.com/vsvardhan967)
+- 🧑‍💻 [GitHub](https://github.com/vardhan967)
 
 ---
 
